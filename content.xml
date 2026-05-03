@@ -1,0 +1,622 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>base</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260503143933UALEPX</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>2026050314393391IL0P</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>Tendiendo puentes</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>base</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1777800434008</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-mopkh649-jgagemn6o</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>TENDIENDO PUENTES - ¿qué es?</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>TENDIENDO PUENTES - ¿qué es?</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Tendiendo Puentes</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>TENDIENDO PUENTES - ¿qué es?</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mopkh649-jgagemn6o</odePageId>
+      <odeBlockId>block-1777753190961-867dxkmoi</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mopkh649-jgagemn6o</odePageId>
+          <odeBlockId>block-1777753190961-867dxkmoi</odeBlockId>
+          <odeIdeviceId>idevice-1777753190948-er0ebrkqi</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>TENDIENDO PUENTES:</p>
+<p>Esta SdA está dirigida al tercer ciclo de Educación Primaria, concretamente al nivel de 6º y está pensada principalmente para prevenir el acoso escolar.</p>
+<p>Se realizará en la asignatura de Educación en Valores Cívicos y Éticos.</p>
+<p>En cuanto a las agrupaciones y la organización en el aula, se van a utilizar diversas maneras. Por un lado, se harán actividades individuales, sobre todo de visualización de materiales. Por otro lado, contaremos con agrupaciones en parejas para realizar alguna actividad, y en pequeños grupos de 4 o 5 personas para otras. Por ello, la organización del aula variará en función de la actividad. Agruparemos las meses en pequeños grupos para realizar esas actividades grupales y también colocaremos el mobiliario cómodamente para trabajar en parejas y se mantendrá esa colocación a la hora de trabajar de manera individual.</p>
+<p>Sobre la temporalización: la duración va a ser de 2 meses, dividiéndose en 8 sesiones en total.</p>
+<p>Los productos finales que deberán realizar los alumnos y alumnas serán: una infografía sobre los principales elementos del acoso escolar. Representación teatral grupal de una historia creada donde se resuelva un conflicto de manera pacífica. Video o podcast donde se representa una historia creada grupalmente donde se resuelva un conflicto de manera pacífica.</p>
+<p>Con respecto a las herramientas tecnológicas:</p>
+<p>- La profesora utilizará eXeLearning, así como videos de Youtube.</p>
+<p>- El alumnado utilizará el canva, el programa Audacity y el CapCut.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777753190948-er0ebrkqi","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>TENDIENDO PUENTES:</p>\n<p>Esta SdA está dirigida al tercer ciclo de Educación Primaria, concretamente al nivel de 6º y está pensada principalmente para prevenir el acoso escolar.</p>\n<p>Se realizará en la asignatura de Educación en Valores Cívicos y Éticos.</p>\n<p>En cuanto a las agrupaciones y la organización en el aula, se van a utilizar diversas maneras. Por un lado, se harán actividades individuales, sobre todo de visualización de materiales. Por otro lado, contaremos con agrupaciones en parejas para realizar alguna actividad, y en pequeños grupos de 4 o 5 personas para otras. Por ello, la organización del aula variará en función de la actividad. Agruparemos las meses en pequeños grupos para realizar esas actividades grupales y también colocaremos el mobiliario cómodamente para trabajar en parejas y se mantendrá esa colocación a la hora de trabajar de manera individual.</p>\n<p>Sobre la temporalización: la duración va a ser de 2 meses, dividiéndose en 8 sesiones en total.</p>\n<p>Los productos finales que deberán realizar los alumnos y alumnas serán: una infografía sobre los principales elementos del acoso escolar. Representación teatral grupal de una historia creada donde se resuelva un conflicto de manera pacífica. Video o podcast donde se representa una historia creada grupalmente donde se resuelva un conflicto de manera pacífica.</p>\n<p>Con respecto a las herramientas tecnológicas:</p>\n<p>- La profesora utilizará eXeLearning, así como videos de Youtube.</p>\n<p>- El alumnado utilizará el canva, el programa Audacity y el CapCut.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mopkh64f-zpsvsg7ju</odePageId>
+  <odeParentPageId>page-mopkh649-jgagemn6o</odeParentPageId>
+  <pageName>Intención Educativa</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Intención Educativa</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Intención Educativa</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mopkh64f-zpsvsg7ju</odePageId>
+      <odeBlockId>block-1777800490862-f1iorfwdl</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mopkh64f-zpsvsg7ju</odePageId>
+          <odeBlockId>block-1777800490862-f1iorfwdl</odeBlockId>
+          <odeIdeviceId>idevice-1777800490858-ztue6e84n</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>El <strong>objetivo</strong>  de esta <strong>SdA es sensibilizar sobre el acoso escolar</strong>, <strong>prevenir</strong> y conocer estrategias para solucionar y <strong>saber gestionar los conflictos.</strong></p>
+<p>Por lo tanto, se espera que después de esta SdA el alumnado haya adquirido herramientas comunicativas para poder expresarse de una manera no violenta y tender puentes para llegar a soluciones pacíficas con otros compañeros y compañeras. Además, será consciente de los distintos escenarios que se dan en situaciones de acoso escolar y su papel como agente responsable en caso de que sea testigo de ellas.</p>
+<p>Para ello, se comenzará con una sesión explicativa sobre los distintos discursos comunicativos desde la perspectiva de la Comunicación no Violenta. Después analizaremos los roles y las situaciones de acoso escolar. Luego, practicaremos distintas situaciones de conflicto y sus posibles situaciones. Y finalmente, tendrán que crear en pequeños grupos historias donde emerja un conflicto y sean capaces de resolverlo con las herramientas practicadas anteriormente.</p>
+<p>Esta SdA tiene<strong> relación con</strong> los siguientes <strong>ODS</strong>:</p>
+<p>- <strong>Salud y bienestar</strong>: ya que se dirige a mejorar el bienestar emocional y relacional promoviendo relaciones de buen trato en la escuela.</p>
+<p>- <strong>Igualdad de género</strong>: porque se trabajará la sensibilización sobre el buen trato, la igualdad y el respeto a la diversidad (puntualizando la discriminación que también existe por el género).</p>
+<p>- <strong>Paz, justicia e instituciones sólidas</strong>: puesto que el buen trato tiene como principio la paz y la justicia. Sensibilizando sobre las injusticias y movilizando a la acción en caso de ser testigo de situaciones violentas o discriminadoras hacia las demás.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777800490858-ztue6e84n","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>El <strong>objetivo</strong>  de esta <strong>SdA es sensibilizar sobre el acoso escolar</strong>, <strong>prevenir</strong> y conocer estrategias para solucionar y <strong>saber gestionar los conflictos.</strong></p>\n<p>Por lo tanto, se espera que después de esta SdA el alumnado haya adquirido herramientas comunicativas para poder expresarse de una manera no violenta y tender puentes para llegar a soluciones pacíficas con otros compañeros y compañeras. Además, será consciente de los distintos escenarios que se dan en situaciones de acoso escolar y su papel como agente responsable en caso de que sea testigo de ellas.</p>\n<p>Para ello, se comenzará con una sesión explicativa sobre los distintos discursos comunicativos desde la perspectiva de la Comunicación no Violenta. Después analizaremos los roles y las situaciones de acoso escolar. Luego, practicaremos distintas situaciones de conflicto y sus posibles situaciones. Y finalmente, tendrán que crear en pequeños grupos historias donde emerja un conflicto y sean capaces de resolverlo con las herramientas practicadas anteriormente.</p>\n<p>Esta SdA tiene<strong> relación con</strong> los siguientes <strong>ODS</strong>:</p>\n<p>- <strong>Salud y bienestar</strong>: ya que se dirige a mejorar el bienestar emocional y relacional promoviendo relaciones de buen trato en la escuela.</p>\n<p>- <strong>Igualdad de género</strong>: porque se trabajará la sensibilización sobre el buen trato, la igualdad y el respeto a la diversidad (puntualizando la discriminación que también existe por el género).</p>\n<p>- <strong>Paz, justicia e instituciones sólidas</strong>: puesto que el buen trato tiene como principio la paz y la justicia. Sensibilizando sobre las injusticias y movilizando a la acción en caso de ser testigo de situaciones violentas o discriminadoras hacia las demás.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777801247400-6gulve7sx</odePageId>
+  <odeParentPageId>page-mopkh649-jgagemn6o</odeParentPageId>
+  <pageName>Elementos curriculares</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Elementos curriculares</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777801247400-6gulve7sx</odePageId>
+      <odeBlockId>block-1777801251490-sm2qpffay</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777801247400-6gulve7sx</odePageId>
+          <odeBlockId>block-1777801251490-sm2qpffay</odeBlockId>
+          <odeIdeviceId>idevice-1777801251488-o4u9mdpwm</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En esta SdA se van a trabajar principalmente<strong> tres competencias clave</strong>:</p>
+<p>- <strong>C. Personal, social y de aprender a aprender </strong>(CPSAA). Donde concretamente se trabajará sobre:</p>
+<p>CPSAA1. Es consciente de las propias emociones, ideas y comportamientos personales y emplea estrategias para gestionarlas en situaciones de tensión o conflicto, adaptándose a los cambios y armonizándolos para alcanzar sus propios objetivos.</p>
+<p>CPSAA2. Conoce los riesgos más relevantes y los principales activos para la salud, adopta estilos de vida saludables para su bienestar físico y mental, y detecta y busca apoyo ante situaciones violentas o discriminatorias.</p>
+<p>CPSAA3. Reconoce y respeta las emociones y experiencias de las demás personas, participa activamente en el trabajo en grupo, asume las responsabilidades individuales asignadas y emplea estrategias cooperativas dirigidas a la consecución de objetivos compartidos.</p>
+<p>CPSAA4. Reconoce el valor del esfuerzo y la dedicación personal para la mejora de su aprendizaje y adopta posturas críticas en procesos de reflexión guiados.</p>
+<p>CPSAA5. Planea objetivos a corto plazo, utiliza estrategias de aprendizaje autorregulado y participa en procesos de auto y coevaluación, reconociendo sus limitaciones y sabiendo buscar ayuda en el proceso de construcción del conocimiento.</p>
+<p>- <strong>C. ciudadana</strong> (CC). Incidiendo sobre todo en la competencia 3: Reflexiona y dialoga sobre valores y problemas éticos de actualidad, comprendiendo la necesidad de respetar diferentes culturas y creencias, de cuidar el entorno, de rechazar prejuicios y estereotipos, y de oponerse a cualquier forma de discriminación o violencia.</p>
+<p>- <strong>C. en conciencia y expresión culturales</strong> (CCEC). Haciendo hincapié en las competencias:</p>
+<p>CCEC3. Expresa ideas, opiniones, sentimientos y emociones de forma creativa y con una actitud abierta e inclusiva, empleando distintos lenguajes artísticos y culturales, integrando su propio cuerpo, interactuando con el entorno y desarrollando sus capacidades afectivas.</p>
+<p>CCEC4. Experimenta de forma creativa con diferentes medios y soportes, y diversas técnicas plásticas, visuales, audiovisuales, sonoras o corporales, para elaborar propuestas artísticas y culturales.</p>
+<p>Con respecto a las<strong> Competencias Específicas</strong> en Educación en Valores Cívicos y Éticos, cabe destacar:</p>
+<p><strong>Competencia específica 1</strong>. Deliberar y argumentar sobre problemas de carácter ético referidos a sí mismo y su entorno, buscando y analizando información fiable y generando una actitud reflexiva al respecto, para promover el autoconocimiento y la autonomía moral. En este caso, nos vamos a centrar en los conflictos que surgen en la escuela, donde van a saber distinguir distintos roles y posicionamientos ante el conflicto. Reflexionando para adquirir una postura mediadora y resolutiva.</p>
+<p><strong>Competencia específica 2</strong>. Actuar e interactuar de acuerdo con normas y valores cívicos y éticos, reconociendo su importancia para la vida individual y colectiva, y aplicándolos de manera efectiva y argumentada en distintos contextos, para promover una convivencia democrática, justa, inclusiva, respetuosa, igualitaria y pacífica. De hecho, vamos a practicar la comunicación no violenta, promoviendo la escucha, la empatía y el respeto ante la diversidad y sobre todo, en situaciones conflictivas.</p>
+<p><strong>Competencia específica 4</strong>. Desarrollar la autoestima y la empatía con el entorno, identificando, gestionando y expresando emociones y sentimientos propios, y reconociendo y valorando los de los otros, para adoptar una actitud fundada en el cuidado y aprecio de sí mismo, de los demás y del resto de la naturaleza. En esta SdA vamos a promover la empatía y el reconocimiento de emociones para cuidar la comunicación y concienciar sobre el buen trato, tanto a una misma como a las demás.</p>
+<p>Los <strong>saberes básicos</strong> de esta SdA son: </p>
+<p>Por un lado, del Bloque A: Autoconocimiento y autonomía moral</p>
+<p>- El <strong>pensamiento crítico y ético</strong>. Van a desarrollar el pensamiento crítico y ético para saber identificar situaciones de abuso e injusticia y cómo intervenir en dichos casos.</p>
+<p>- La naturaleza humana y la identidad personal. <strong>Igualdad y diferencia entre las personas</strong>. Sabiendo que la diversidad es inherente a la condición humana y a la vida. Adquiriendo actitudes de respeto hacia las diferencias.</p>
+<p>- La <strong>gestión de las emociones y los sentimientos</strong>.Trabjando la comunicación no violenta ante emociones difíciles de gestionar como el enfado o el miedo.  </p>
+<p>- La <strong>ética como guía de nuestras acciones</strong>. El debate en torno a lo valioso y a los valores. Las normas, las virtudes y los sentimientos morales. Trabajando las normas para resolver conflictos pacíficamente.</p>
+<p>-La <strong>prevención del abuso, el ciberacoso</strong> y la violencia de género. El respeto a la intimidad. Los límites a la libertad de expresión. Las conductas adictivas. Extendiendo el conocimiento del acoso escolar también al ámbito de las redes sociales y el ciberacoso.</p>
+<p>Bloque B. Sociedad, justicia y democracia.</p>
+<p>- Las <strong>virtudes del diálogo y las normas de la argumentación</strong>. La toma democrática de decisiones. A través de la comunicación no violenta practicaremos este diálogo y resolución de conflictos a través de la palabra.</p>
+<p>- Fundamentos de la vida en sociedad. La <strong>empatía</strong> con las demás personas. Los <strong>afectos</strong>.  La <strong>amistad</strong> y el amor. Nos centraremos sobre todo en la escucha, la empatía y las relaciones de amistad para aprender a cuidarlas y practicar el buen trato.</p>
+<p>- Las <strong>reglas de convivencia</strong>. Moralidad, legalidad y conducta cívica. Serán los saberes básicos para la resolución de conflictos que pondremos en práctica.</p>
+<p>- La <strong>cultura de paz y no violencia</strong>. La contribución del Estado y sus instituciones a la paz, la seguridad, la cooperación internacional y el desarrollo de la igualdad efectiva entre mujeres y hombres. Trabajaremos en contextos concretos y cercanos la no violencia y el buen trato entre las personas.</p>
+<p>Los <strong>criterios de evaluación</strong> van a ser los siguientes:</p>
+<p>- Generar una posición moral autónoma mediante el ejercicio de la deliberación racional, el uso de conceptos éticos y el diálogo respetuoso con, el resto, en torno a distintos valores y modos de vida, así como a problemas relacionados con el uso responsable, seguro y crítico de las redes y medios de comunicación, las conductas adictivas, la prevención del abuso y el acoso escolar, la igualdad y el respeto a la intimidad personal.</p>
+<p>- Interactuar con las personas adoptando, de forma motivada y autónoma, conductas cívicas y éticas, inclusivas e igualitarias, orientadas por valores comunes, a partir del conocimiento de los derechos humanos y los principios constitucionales fundamentales, en relación con contextos y problemas concretos, así como de la consideración crítica y dialogada acerca de cómo debemos relacionarnos con los demás.</p>
+<p>- Reflexionar y asumir un compromiso activo y crítico con valores relativos a la solidaridad y el respeto a las minorías y las identidades etnoculturales y de género, analizando desde un punto de vista ético cuestiones relacionadas con la desigualdad y la pobreza, el hecho multicultural, la diversidad humana y los fenómenos migratorios.</p>
+<p>- Contribuir a generar una convivencia respetuosa, no sexista y comprometida con el logro de la igualdad y la corresponsabilidad efectivas, y con la erradicación de la violencia de género, a partir del conocimiento y análisis crítico de la situación secular de desigualdad entre mujeres y hombres.</p>
+<p>- Gestionar equilibradamente pensamientos, sentimientos y emociones, y desarrollar una actitud de estima y cuidado de sí mismo o sí misma, de las demás personas y del entorno, identificando, analizando y expresando de manera asertiva las propias emociones y afectos, y reconociendo y valorando los de otras personas, en distintos contextos y en relación con actividades creativas y de reflexión individual o dialogada sobre cuestiones éticas y cívicas.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777801251488-o4u9mdpwm","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En esta SdA se van a trabajar principalmente<strong> tres competencias clave</strong>:</p>\n<p>- <strong>C. Personal, social y de aprender a aprender </strong>(CPSAA). Donde concretamente se trabajará sobre:</p>\n<p>CPSAA1. Es consciente de las propias emociones, ideas y comportamientos personales y emplea estrategias para gestionarlas en situaciones de tensión o conflicto, adaptándose a los cambios y armonizándolos para alcanzar sus propios objetivos.</p>\n<p>CPSAA2. Conoce los riesgos más relevantes y los principales activos para la salud, adopta estilos de vida saludables para su bienestar físico y mental, y detecta y busca apoyo ante situaciones violentas o discriminatorias.</p>\n<p>CPSAA3. Reconoce y respeta las emociones y experiencias de las demás personas, participa activamente en el trabajo en grupo, asume las responsabilidades individuales asignadas y emplea estrategias cooperativas dirigidas a la consecución de objetivos compartidos.</p>\n<p>CPSAA4. Reconoce el valor del esfuerzo y la dedicación personal para la mejora de su aprendizaje y adopta posturas críticas en procesos de reflexión guiados.</p>\n<p>CPSAA5. Planea objetivos a corto plazo, utiliza estrategias de aprendizaje autorregulado y participa en procesos de auto y coevaluación, reconociendo sus limitaciones y sabiendo buscar ayuda en el proceso de construcción del conocimiento.</p>\n<p>- <strong>C. ciudadana</strong> (CC). Incidiendo sobre todo en la competencia 3: Reflexiona y dialoga sobre valores y problemas éticos de actualidad, comprendiendo la necesidad de respetar diferentes culturas y creencias, de cuidar el entorno, de rechazar prejuicios y estereotipos, y de oponerse a cualquier forma de discriminación o violencia.</p>\n<p>- <strong>C. en conciencia y expresión culturales</strong> (CCEC). Haciendo hincapié en las competencias:</p>\n<p>CCEC3. Expresa ideas, opiniones, sentimientos y emociones de forma creativa y con una actitud abierta e inclusiva, empleando distintos lenguajes artísticos y culturales, integrando su propio cuerpo, interactuando con el entorno y desarrollando sus capacidades afectivas.</p>\n<p>CCEC4. Experimenta de forma creativa con diferentes medios y soportes, y diversas técnicas plásticas, visuales, audiovisuales, sonoras o corporales, para elaborar propuestas artísticas y culturales.</p>\n<p>Con respecto a las<strong> Competencias Específicas</strong> en Educación en Valores Cívicos y Éticos, cabe destacar:</p>\n<p><strong>Competencia específica 1</strong>. Deliberar y argumentar sobre problemas de carácter ético referidos a sí mismo y su entorno, buscando y analizando información fiable y generando una actitud reflexiva al respecto, para promover el autoconocimiento y la autonomía moral. En este caso, nos vamos a centrar en los conflictos que surgen en la escuela, donde van a saber distinguir distintos roles y posicionamientos ante el conflicto. Reflexionando para adquirir una postura mediadora y resolutiva.</p>\n<p><strong>Competencia específica 2</strong>. Actuar e interactuar de acuerdo con normas y valores cívicos y éticos, reconociendo su importancia para la vida individual y colectiva, y aplicándolos de manera efectiva y argumentada en distintos contextos, para promover una convivencia democrática, justa, inclusiva, respetuosa, igualitaria y pacífica. De hecho, vamos a practicar la comunicación no violenta, promoviendo la escucha, la empatía y el respeto ante la diversidad y sobre todo, en situaciones conflictivas.</p>\n<p><strong>Competencia específica 4</strong>. Desarrollar la autoestima y la empatía con el entorno, identificando, gestionando y expresando emociones y sentimientos propios, y reconociendo y valorando los de los otros, para adoptar una actitud fundada en el cuidado y aprecio de sí mismo, de los demás y del resto de la naturaleza. En esta SdA vamos a promover la empatía y el reconocimiento de emociones para cuidar la comunicación y concienciar sobre el buen trato, tanto a una misma como a las demás.</p>\n<p>Los <strong>saberes básicos</strong> de esta SdA son: </p>\n<p>Por un lado, del Bloque A: Autoconocimiento y autonomía moral</p>\n<p>- El <strong>pensamiento crítico y ético</strong>. Van a desarrollar el pensamiento crítico y ético para saber identificar situaciones de abuso e injusticia y cómo intervenir en dichos casos.</p>\n<p>- La naturaleza humana y la identidad personal. <strong>Igualdad y diferencia entre las personas</strong>. Sabiendo que la diversidad es inherente a la condición humana y a la vida. Adquiriendo actitudes de respeto hacia las diferencias.</p>\n<p>- La <strong>gestión de las emociones y los sentimientos</strong>.Trabjando la comunicación no violenta ante emociones difíciles de gestionar como el enfado o el miedo.  </p>\n<p>- La <strong>ética como guía de nuestras acciones</strong>. El debate en torno a lo valioso y a los valores. Las normas, las virtudes y los sentimientos morales. Trabajando las normas para resolver conflictos pacíficamente.</p>\n<p>-La <strong>prevención del abuso, el ciberacoso</strong> y la violencia de género. El respeto a la intimidad. Los límites a la libertad de expresión. Las conductas adictivas. Extendiendo el conocimiento del acoso escolar también al ámbito de las redes sociales y el ciberacoso.</p>\n<p>Bloque B. Sociedad, justicia y democracia.</p>\n<p>- Las <strong>virtudes del diálogo y las normas de la argumentación</strong>. La toma democrática de decisiones. A través de la comunicación no violenta practicaremos este diálogo y resolución de conflictos a través de la palabra.</p>\n<p>- Fundamentos de la vida en sociedad. La <strong>empatía</strong> con las demás personas. Los <strong>afectos</strong>.  La <strong>amistad</strong> y el amor. Nos centraremos sobre todo en la escucha, la empatía y las relaciones de amistad para aprender a cuidarlas y practicar el buen trato.</p>\n<p>- Las <strong>reglas de convivencia</strong>. Moralidad, legalidad y conducta cívica. Serán los saberes básicos para la resolución de conflictos que pondremos en práctica.</p>\n<p>- La <strong>cultura de paz y no violencia</strong>. La contribución del Estado y sus instituciones a la paz, la seguridad, la cooperación internacional y el desarrollo de la igualdad efectiva entre mujeres y hombres. Trabajaremos en contextos concretos y cercanos la no violencia y el buen trato entre las personas.</p>\n<p>Los <strong>criterios de evaluación</strong> van a ser los siguientes:</p>\n<p>- Generar una posición moral autónoma mediante el ejercicio de la deliberación racional, el uso de conceptos éticos y el diálogo respetuoso con, el resto, en torno a distintos valores y modos de vida, así como a problemas relacionados con el uso responsable, seguro y crítico de las redes y medios de comunicación, las conductas adictivas, la prevención del abuso y el acoso escolar, la igualdad y el respeto a la intimidad personal.</p>\n<p>- Interactuar con las personas adoptando, de forma motivada y autónoma, conductas cívicas y éticas, inclusivas e igualitarias, orientadas por valores comunes, a partir del conocimiento de los derechos humanos y los principios constitucionales fundamentales, en relación con contextos y problemas concretos, así como de la consideración crítica y dialogada acerca de cómo debemos relacionarnos con los demás.</p>\n<p>- Reflexionar y asumir un compromiso activo y crítico con valores relativos a la solidaridad y el respeto a las minorías y las identidades etnoculturales y de género, analizando desde un punto de vista ético cuestiones relacionadas con la desigualdad y la pobreza, el hecho multicultural, la diversidad humana y los fenómenos migratorios.</p>\n<p>- Contribuir a generar una convivencia respetuosa, no sexista y comprometida con el logro de la igualdad y la corresponsabilidad efectivas, y con la erradicación de la violencia de género, a partir del conocimiento y análisis crítico de la situación secular de desigualdad entre mujeres y hombres.</p>\n<p>- Gestionar equilibradamente pensamientos, sentimientos y emociones, y desarrollar una actitud de estima y cuidado de sí mismo o sí misma, de las demás personas y del entorno, identificando, analizando y expresando de manera asertiva las propias emociones y afectos, y reconociendo y valorando los de otras personas, en distintos contextos y en relación con actividades creativas y de reflexión individual o dialogada sobre cuestiones éticas y cívicas.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777803442916-u8mn76647</odePageId>
+  <odeParentPageId>page-mopkh649-jgagemn6o</odeParentPageId>
+  <pageName>Metodologías activas</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Metodologías activas</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777803442916-u8mn76647</odePageId>
+      <odeBlockId>block-1777804570288-wbz3v7xlv</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777803442916-u8mn76647</odePageId>
+          <odeBlockId>block-1777804570288-wbz3v7xlv</odeBlockId>
+          <odeIdeviceId>idevice-1777804570286-z9xx63d9l</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En esta situación de aprendizaje se utilizarán varias metodologías activas como:</p>
+<p>- La flipped classroom para trabajar información sobre el acoso escolar.</p>
+<p>- El ABJ para la creación de las historias donde hay que gestionar un conflicto. Utilizando el juego de "Story Cubes".</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777804570286-z9xx63d9l","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En esta situación de aprendizaje se utilizarán varias metodologías activas como:</p>\n<p>- La flipped classroom para trabajar información sobre el acoso escolar.</p>\n<p>- El ABJ para la creación de las historias donde hay que gestionar un conflicto. Utilizando el juego de \"Story Cubes\".</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777805788821-4sh9wbutp</odePageId>
+  <odeParentPageId>page-mopkh649-jgagemn6o</odeParentPageId>
+  <pageName>Vinculación con los proyectos y programas del centro</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Vinculación con los proyectos y programas del centro</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777805788821-4sh9wbutp</odePageId>
+      <odeBlockId>block-1777805823380-9ca0jkenb</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777805788821-4sh9wbutp</odePageId>
+          <odeBlockId>block-1777805823380-9ca0jkenb</odeBlockId>
+          <odeIdeviceId>idevice-1777805823378-df85vvngb</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Esta SdA está vinculada directamente al <strong>Plan Integral de Convivencia</strong> del colegio.</p>
+<p>En concreto con el punto 9 del plan:</p>
+<p>ACTUACIONES ESPECÍFICAS PARA PREVENIR EL ACOSO ESCOLAR REALIZADO POR<br />CUALQUIER MEDIO O EN CUALQUIER SOPORTE E INTERVENIR CON RAPIDEZ EN EL SUPUESTO QUE SE PRODUZCA</p>
+<p>Por otro lado, también se vincula con le <strong>Plan de Atención a la Diversidad</strong>. Donde se promueven propuestas metodológicas, organizativas y curriculares que eliminan las barreras. En este caso esta SdA trabaja para eliminar barreras emocionales, fomentando el buen clima del aula a través del buen trato entre compañeros y compañeras.</p>
+<p>Y con el <strong>Plan de Acción Tutorial</strong>. Ya que se trabajarán de manera transversal con la tutora los valores aprendidos. Y que vienen reflejados en este plan:</p>
+<p>- <strong>Enseñar a convivir</strong>: Acciones que desarrollan en los alumnos capacidades y habilidades sociales para una adecuada convivencia.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777805823378-df85vvngb","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Esta SdA está vinculada directamente al <strong>Plan Integral de Convivencia</strong> del colegio.</p>\n<p>En concreto con el punto 9 del plan:</p>\n<p>ACTUACIONES ESPECÍFICAS PARA PREVENIR EL ACOSO ESCOLAR REALIZADO POR<br />CUALQUIER MEDIO O EN CUALQUIER SOPORTE E INTERVENIR CON RAPIDEZ EN EL SUPUESTO QUE SE PRODUZCA</p>\n<p>Por otro lado, también se vincula con le <strong>Plan de Atención a la Diversidad</strong>. Donde se promueven propuestas metodológicas, organizativas y curriculares que eliminan las barreras. En este caso esta SdA trabaja para eliminar barreras emocionales, fomentando el buen clima del aula a través del buen trato entre compañeros y compañeras.</p>\n<p>Y con el <strong>Plan de Acción Tutorial</strong>. Ya que se trabajarán de manera transversal con la tutora los valores aprendidos. Y que vienen reflejados en este plan:</p>\n<p>- <strong>Enseñar a convivir</strong>: Acciones que desarrollan en los alumnos capacidades y habilidades sociales para una adecuada convivencia.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777806306826-bictnz2nx</odePageId>
+  <odeParentPageId>page-mopkh649-jgagemn6o</odeParentPageId>
+  <pageName>Actividades complementarias y extraescolares</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Actividades complementarias y extraescolares</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777806306826-bictnz2nx</odePageId>
+      <odeBlockId>block-1777806310130-7q1aae893</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777806306826-bictnz2nx</odePageId>
+          <odeBlockId>block-1777806310130-7q1aae893</odeBlockId>
+          <odeIdeviceId>idevice-1777806310128-5jasxqvvy</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Para esta SdA se va a colaborar con la actividad <strong>extraescolar de</strong> <strong>apoyo educativo en inglés</strong> que se realiza dos días por las tardes en el colegio.</p>
+<p>En este caso se va a coordinar con la profesora de inglés el poder<strong> realizar el producto final en inglés</strong>. Para lo cual tendrán que traducir la historia y preparar la dramatización y producto digital en inglés.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777806310128-5jasxqvvy","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Para esta SdA se va a colaborar con la actividad <strong>extraescolar de</strong> <strong>apoyo educativo en inglés</strong> que se realiza dos días por las tardes en el colegio.</p>\n<p>En este caso se va a coordinar con la profesora de inglés el poder<strong> realizar el producto final en inglés</strong>. Para lo cual tendrán que traducir la historia y preparar la dramatización y producto digital en inglés.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777806583307-dp1rs90tc</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Descarga este eXe</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Descarga este eXe</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777806583307-dp1rs90tc</odePageId>
+      <odeBlockId>block-1777806633861-sdkkob20l</odeBlockId>
+      <blockName>Descargar el archivo fuente</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777806583307-dp1rs90tc</odePageId>
+          <odeBlockId>block-1777806633861-sdkkob20l</odeBlockId>
+          <odeIdeviceId>idevice-1777806633856-nn2lrp3co</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table exe-package-info"><caption>Información general sobre este recurso educativo</caption>
+<tbody>
+<tr>
+<th>Título</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-title">Tendiendo puentes</span></td>
+</tr>
+<tr>
+<th>Descripción</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-description">-</span></td>
+</tr>
+<tr>
+<th>Autoría</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-author">-</span></td>
+</tr>
+<tr>
+<th>Licencia</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-license">creative commons: attribution - share alike 4.0</span></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="https://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#107275;color:#ffffff;">Descargar el archivo .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
